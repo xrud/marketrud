@@ -20,7 +20,7 @@
     <platform name="android">
         <allow-intent href="market:*" />
 	<preference name="android-targetSdkVersion" value="28" />
-	<icon src="xhdpi.png" />
+	
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
