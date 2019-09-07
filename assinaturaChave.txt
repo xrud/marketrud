@@ -1,0 +1,14 @@
+1) Gere o certificado
+keytool -genkey -v -keystore alias-certificado.keystore -alias alias-certificado -keyalg RSA -keysize 2048 -validity 10000
+
+2) Salve um arquivo com o nome release-signing.properties em platforms/android na pasta do projeto
+
+Conteúdo
+
+storeFile=/caminho/arquivo-certificado.keystore
+storeType=jks
+keyAlias=alias-que-usou
+keyPassword=senha
+storePassword=senha
+
+3) cordova build android --release
