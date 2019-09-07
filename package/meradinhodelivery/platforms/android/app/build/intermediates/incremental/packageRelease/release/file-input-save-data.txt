@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Sep 07 13:51:05 UTC 2019
+#Sat Sep 07 14:22:58 UTC 2019
 5.base=/marketrud/package/meradinhodelivery/platforms/android/app/build/intermediates/res/release/resources-release.ap_
 42.base=/marketrud/package/meradinhodelivery/platforms/android/app/build/intermediates/assets/release
 32.set=ASSET
