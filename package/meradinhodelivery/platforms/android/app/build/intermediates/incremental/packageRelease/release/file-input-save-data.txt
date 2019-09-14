@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Sep 14 13:46:44 UTC 2019
+#Sat Sep 14 13:58:01 UTC 2019
 25.file=/marketrud/package/meradinhodelivery/platforms/android/app/build/intermediates/assets/release/www/cordova-js-src/platform.js
 41.base=/marketrud/package/meradinhodelivery/platforms/android/app/build/intermediates/assets/release
 25.base=/marketrud/package/meradinhodelivery/platforms/android/app/build/intermediates/assets/release
