@@ -26,7 +26,7 @@
   "cordova-plugin-geolocation": {
     "source": {
       "type": "registry",
-      "id": "cordova-plugin-geolocation@2.1.0"
+      "id": "https://github.com/apache/cordova-plugin-geolocation.git"
     },
     "is_top_level": true,
     "variables": {}

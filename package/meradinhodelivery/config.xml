@@ -31,7 +31,7 @@
         <allow-intent href="itms-apps:*" />
     </platform>
     <plugin name="cordova-plugin-inappbrowser" spec="^3.1.0" />
-    <plugin name="cordova-plugin-geolocation" version="2.1.0" />
     <engine name="ios" spec="^4.5.5" />
     <engine name="android" spec="^7.0.0" />
+    <plugin name="cordova-plugin-geolocation" spec="https://github.com/apache/cordova-plugin-geolocation.git" />
 </widget>
