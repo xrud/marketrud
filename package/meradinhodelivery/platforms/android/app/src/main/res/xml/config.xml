@@ -7,9 +7,9 @@
         <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
         <param name="onload" value="true" />
     </feature>
-    <name>mercadinhoDelivery</name>
+    <name>Obber</name>
     <description>
-        O supermercado no seu smarphone.
+        Mobilidade na sua cidade.
     </description>
     <author email="paulosergioduffjob@gmail.com" href="paulosergioduff.github.io">
         Sérgio Lima, desenvolvimento de sites e aplicativos
