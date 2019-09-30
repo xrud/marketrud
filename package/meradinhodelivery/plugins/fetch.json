@@ -15,18 +15,10 @@
     "is_top_level": true,
     "variables": {}
   },
-  "org.apache.cordova.geolocation": {
-    "source": {
-      "type": "registry",
-      "id": "org.apache.cordova.geolocation"
-    },
-    "is_top_level": true,
-    "variables": {}
-  },
   "cordova-plugin-geolocation": {
     "source": {
       "type": "registry",
-      "id": "https://github.com/apache/cordova-plugin-geolocation.git"
+      "id": "git+https://github.com/apache/cordova-plugin-geolocation.git"
     },
     "is_top_level": true,
     "variables": {}

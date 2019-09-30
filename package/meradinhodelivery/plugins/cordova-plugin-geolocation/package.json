@@ -1,7 +1,7 @@
 {
   "_args": [
     [
-      "https://github.com/apache/cordova-plugin-geolocation.git",
+      "git+https://github.com/apache/cordova-plugin-geolocation.git",
       "/marketrud/package/meradinhodelivery"
     ]
   ],
@@ -22,8 +22,8 @@
       "type": "github"
     },
     "name": null,
-    "raw": "https://github.com/apache/cordova-plugin-geolocation.git",
-    "rawSpec": "https://github.com/apache/cordova-plugin-geolocation.git",
+    "raw": "git+https://github.com/apache/cordova-plugin-geolocation.git",
+    "rawSpec": "git+https://github.com/apache/cordova-plugin-geolocation.git",
     "scope": null,
     "spec": "git+https://github.com/apache/cordova-plugin-geolocation.git",
     "type": "hosted"
@@ -32,9 +32,9 @@
     "/"
   ],
   "_resolved": "git+https://github.com/apache/cordova-plugin-geolocation.git#6570cf9fd2c546620f6aa8b2a07cf0b8b073a95c",
-  "_shasum": "67198b5b4c9a692cb7678b930263d48f70d701b6",
+  "_shasum": "f904936c7d0b815fb55fe12b79011a2f6f41baf6",
   "_shrinkwrap": null,
-  "_spec": "https://github.com/apache/cordova-plugin-geolocation.git",
+  "_spec": "git+https://github.com/apache/cordova-plugin-geolocation.git",
   "_where": "/marketrud/package/meradinhodelivery",
   "author": {
     "name": "Apache Software Foundation"
